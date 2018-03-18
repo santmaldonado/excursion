@@ -9,3 +9,41 @@ h1{
   font-size: 50px;
   text-align: center;
 }
+video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+p{
+  color: grey;
+  font-family: verdana;
+  font-size: 21px;
+  text-align: center;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+  color: grey;
+  font-family: verdana;
+  font-size: 21px;
+  text-align: right;
+  font-weight: normal;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
